@@ -12,23 +12,23 @@ Neste projeto, verificamos se você é capaz de:
 
 # Requisitos Obrigatórios :robot:
 
-- [] 1. Implemente a função `getSpeciesByIds`
+- [x] 1. Implemente a função `getSpeciesByIds`
 
-- [] 2. Implemente a função `getAnimalsOlderThan`
+- [x] 2. Implemente a função `getAnimalsOlderThan`
 
-- [] 3. Implemente a função `getEmployeeByName`
+- [x] 3. Implemente a função `getEmployeeByName`
 
-- [] 4. Implemente a função `getRelatedEmployees`
+- [x] 4. Implemente a função `getRelatedEmployees`
 
-- [] 5. Implemente a função `countAnimals`
+- [x] 5. Implemente a função `countAnimals`
 
-- [] 6. Implemente a função `calculateEntry`
+- [x] 6. Implemente a função `calculateEntry`
 
-- [] 7. Implemente a função `getAnimalMap`
+- [x] 7. Implemente a função `getAnimalMap`
 
-- [] 8. Implemente a função `getSchedule`
+- [x] 8. Implemente a função `getSchedule`
 
-- [] 9. Implemente a função `getOldestFromFirstSpecies`
+- [x] 9. Implemente a função `getOldestFromFirstSpecies`
 
-- [] 10. Implemente a função `getEmployeesCoverage`
+- [x] 10. Implemente a função `getEmployeesCoverage`
 
